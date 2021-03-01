@@ -1,0 +1,2 @@
+# programowanie_w_systemie_linux_2020
+projekt zaliczeniowy
